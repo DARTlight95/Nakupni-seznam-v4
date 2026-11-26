@@ -10,3 +10,6 @@
 V Safari otevři adresu GitHub Pages a zvol **Sdílet → Přidat na plochu**.
 
 Data aplikace včetně fotografií se ukládají lokálně v prohlížeči zařízení.
+
+## Aktualizace
+Tato verze má upravené rozložení pro telefon na výšku. Nahraď na GitHubu všechny původní soubory.
